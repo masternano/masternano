@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product (UI/UX) & Web design
 - 🌱 I’m currently learning 3D illustration 
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me codeninety@gmail.com
+- 📫 How to reach me sc.nnabude@gmail.com
 
 <!---
 masternano/masternano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
